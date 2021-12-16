@@ -10,3 +10,4 @@ A telegram media to gofile uploader bot
 - `BOT_TOKEN` Your bot token from @BotFather
 
 ---
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/REX-BOTZ/GoFile-Bot)
