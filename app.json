@@ -1,10 +1,10 @@
 {
 
-    "name": "File Convert",
+    "name": "Go File Bot",
 
     "description": "This is a simple boat. You generate QRcode with this bot",
 
-    "repository": "https://github.com/REX-BOTZ/File-2-Viedo/",
+    "repository": "https://github.com/REX-BOTZ/GoFile-Bot/",
 
     "keywords": ["telegram", "pyrogram", "qrcode-generator","telegram bot"],
 
